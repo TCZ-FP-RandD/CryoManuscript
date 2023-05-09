@@ -65,7 +65,7 @@ Accession Number,Genus,Species,Strain,Location,Pvalue,Inoc Date,Date Frozen,Date
 1013,Agaricus,brunnescens,Portobello,F6,3,6/25/2019,7/9/2019,7/10/2019,2,6,6
 1446,Stropharia,rugosoannulata,Franklin wine cap #8621,F7,3,6/25/2019,7/8/2019,4/23/2021,1,3,3
 1294,Lentinula,edodes,CW krcm 221,F7,15,7/25/2019,8/12/2019,8/13/2019,2,6,6
-1114,Fomitopsis,officinalis,VI (6)- Cortes Carrington,F6,2,7/25/2019,8/13/2019,8/14/2019,2,6,6
+1114,Laricifomes,officinalis,VI (6)- Cortes Carrington,F6,2,7/25/2019,8/13/2019,8/14/2019,2,6,6
 1312,Lentinula,edodes,WW krcm 324,F7,16,7/25/2019,8/15/2019,8/16/2019,2,6,5
 1012,Agaricus,brunnescens,I SA,F6,5,8/30/2019,9/11/2019,9/12/2019,2,6,6
 1238,Hypholoma,capnoides,Elwha,F5,2,8/30/2019,9/24/2019,9/25/2019,2,6,6
@@ -90,22 +90,22 @@ Accession Number,Genus,Species,Strain,Location,Pvalue,Inoc Date,Date Frozen,Date
 1042,Cordyceps,militaris,Cordyzilla,F5,3,12/10/2019,1/2/2020,1/3/2020,2,6,6
 1186,Ganoderma,oregonense,I,F5,11,12/11/2019,1/2/2020,1/3/2020,2,6,6
 1177,Ganoderma,lucidum,34:D,F5,6,12/11/2019,12/16/2019,12/17/2019,2,6,6
-1124,Fomitopsis,officinalis,XIII (13)- Federation St. Pk,F5,2,12/11/2019,1/2/2020,1/3/2020,2,6,6
-1151,Fomitopsis,officinalis,XXXI (31)- Camano Island,F3,2,12/11/2019,1/3/2020,1/4/2020,2,6,6
-1157,Fomitopsis,officinalis,XXXVI- Seaford,F3,2,12/11/2019,1/3/2020,1/4/2020,2,6,6
-1159,Fomitopsis,officinalis,XXXVIII (38)- Lk Cavanaugh WA,F3,2,12/11/2019,1/3/2020,1/4/2020,2,6,6
-1083,Fomitopsis,officinalis,East Tyrol,F4,8,12/19/2019,1/9/2020,1/10/2020,2,6,6
-1135,Fomitopsis,officinalis,XLVII (47) - Rim Rock I,F3,2,12/19/2019,1/6/2020,1/7/2020,2,6,6
-1106,Fomitopsis,officinalis,South Tyrol,F4,5,12/19/2019,1/6/2020,1/7/2020,2,6,6
-1121,Fomitopsis,officinalis,X (10)- Hoh,F4,2,12/19/2019,1/6/2020,1/7/2020,2,6,6
-1144,Fomitopsis,officinalis,XXIV (24)- Chinook Pass Hwy 410,F3,2,12/19/2019,1/6/2020,1/7/2020,2,6,6
+1124,Laricifomes,officinalis,XIII (13)- Federation St. Pk,F5,2,12/11/2019,1/2/2020,1/3/2020,2,6,6
+1151,Laricifomes,officinalis,XXXI (31)- Camano Island,F3,2,12/11/2019,1/3/2020,1/4/2020,2,6,6
+1157,Laricifomes,officinalis,XXXVI- Seaford,F3,2,12/11/2019,1/3/2020,1/4/2020,2,6,6
+1159,Laricifomes,officinalis,XXXVIII (38)- Lk Cavanaugh WA,F3,2,12/11/2019,1/3/2020,1/4/2020,2,6,6
+1083,Laricifomes,officinalis,East Tyrol,F4,8,12/19/2019,1/9/2020,1/10/2020,2,6,6
+1135,Laricifomes,officinalis,XLVII (47) - Rim Rock I,F3,2,12/19/2019,1/6/2020,1/7/2020,2,6,6
+1106,Laricifomes,officinalis,South Tyrol,F4,5,12/19/2019,1/6/2020,1/7/2020,2,6,6
+1121,Laricifomes,officinalis,X (10)- Hoh,F4,2,12/19/2019,1/6/2020,1/7/2020,2,6,6
+1144,Laricifomes,officinalis,XXIV (24)- Chinook Pass Hwy 410,F3,2,12/19/2019,1/6/2020,1/7/2020,2,6,6
 1046,Ophiocordyceps,sinensis,CSC,F4,3,12/19/2019,1/7/2020,1/8/2020,2,6,6
 1296,Lentinula,edodes,Jumbo 370,F3,3,12/19/2019,1/3/2020,1/4/2020,2,6,6
 1306,Lentinula,edodes,TS #1,F4,9,12/19/2019,1/7/2020,1/8/2020,2,6,6
 1209,Grifola,frondosa,PA/Oak,F3,3,12/19/2019,1/8/2020,1/9/2020,2,6,6
 1370,Pleurotus,djamor,I,F3,12,12/19/2019,1/8/2020,1/9/2020,2,6,6
 1370,Pleurotus,djamor,I,F3,12,12/19/2019,1/8/2020,8/17/2020,1,3,3
-1144,Fomitopsis,officinalis,XXIV (24)- Chinook Pass Hwy 410,F3,2,12/19/2019,1/6/2020,1/14/2022,1,4,4
+1144,Laricifomes,officinalis,XXIV (24)- Chinook Pass Hwy 410,F3,2,12/19/2019,1/6/2020,1/14/2022,1,4,4
 1370,Pleurotus,djamor,I,F3,12,12/19/2019,1/8/2020,9/30/2022,1,6,6
 1246,Hypholoma,lateritium,I,F4,16,2/5/2020,2/17/2020,2/18/2020,2,6,6
 1335,Morchella,esculenta,M18,F4,8,2/5/2020,2/12/2020,2/13/2020,2,6,6
@@ -121,80 +121,80 @@ Accession Number,Genus,Species,Strain,Location,Pvalue,Inoc Date,Date Frozen,Date
 1305,Lentinula,edodes,SH 322 #3,F2,11,2/10/2020,2/24/2020,2/25/2020,2,6,6
 1299,Lentinula,edodes,MM,F3,18,2/10/2020,2/19/2020,2/20/2020,2,6,6
 1304,Lentinula,edodes,SH 1321 #2,F2,12,2/10/2020,2/21/2020,2/22/2020,2,6,6
-1095,Fomitopsis,officinalis,MPVW,F1,4,2/26/2020,3/20/2020,3/21/2020,2,6,6
-1134,Fomitopsis,officinalis,XLVI (46) - Sacramento,F2,2,2/26/2020,3/16/2020,3/17/2020,2,6,6
-1155,Fomitopsis,officinalis,XXXIX (39) - Mud Bay,F1,2,2/26/2020,3/23/2020,3/24/2020,2,6,6
-1145,Fomitopsis,officinalis,XXIX (29)- Capitol Forest,F1,2,2/26/2020,3/23/2020,3/24/2020,2,6,6
-1137,Fomitopsis,officinalis,XV (15)- Ellinor,F2,3,2/26/2020,3/16/2020,3/17/2020,2,6,6
-1080,Fomitopsis,officinalis,Chip,F1,3,2/26/2020,3/20/2020,3/21/2020,2,6,6
-1088,Fomitopsis,officinalis,I- Morton,F2,3,2/26/2020,3/17/2020,3/18/2020,2,6,6
-1079,Fomitopsis,officinalis,C/D,F2,4,2/26/2020,3/17/2020,3/18/2020,2,6,6
-1140,Fomitopsis,officinalis,XVIII (18) #67318 (Ellinor),F1,2,2/26/2020,3/30/2020,4/1/2020,2,6,6
+1095,Laricifomes,officinalis,MPVW,F1,4,2/26/2020,3/20/2020,3/21/2020,2,6,6
+1134,Laricifomes,officinalis,XLVI (46) - Sacramento,F2,2,2/26/2020,3/16/2020,3/17/2020,2,6,6
+1155,Laricifomes,officinalis,XXXIX (39) - Mud Bay,F1,2,2/26/2020,3/23/2020,3/24/2020,2,6,6
+1145,Laricifomes,officinalis,XXIX (29)- Capitol Forest,F1,2,2/26/2020,3/23/2020,3/24/2020,2,6,6
+1137,Laricifomes,officinalis,XV (15)- Ellinor,F2,3,2/26/2020,3/16/2020,3/17/2020,2,6,6
+1080,Laricifomes,officinalis,Chip,F1,3,2/26/2020,3/20/2020,3/21/2020,2,6,6
+1088,Laricifomes,officinalis,I- Morton,F2,3,2/26/2020,3/17/2020,3/18/2020,2,6,6
+1079,Laricifomes,officinalis,C/D,F2,4,2/26/2020,3/17/2020,3/18/2020,2,6,6
+1140,Laricifomes,officinalis,XVIII (18) #67318 (Ellinor),F1,2,2/26/2020,3/30/2020,4/1/2020,2,6,6
 1309,Lentinula,edodes,W4,F2,6,2/26/2020,3/10/2020,3/11/2020,2,6,6
-1140,Fomitopsis,officinalis,XVIII (18) #67318 (Ellinor),F1,2,2/26/2020,3/30/2020,1/14/2022,1,4,4
-1145,Fomitopsis,officinalis,XXIX (29)- Capitol Forest,F1,2,2/26/2020,3/23/2020,1/14/2022,1,4,4
-1095,Fomitopsis,officinalis,MPVW,F1,4,2/26/2020,3/20/2020,1/14/2022,1,4,4
-1080,Fomitopsis,officinalis,Chip,F1,3,2/26/2020,3/20/2020,1/14/2022,1,4,4
-1147,Fomitopsis,officinalis,XXVI (26)- Browns Creek,E7,2,5/5/2020,6/2/2020,6/3/2020,2,6,6
-1153,Fomitopsis,officinalis,XXXIIIa (33a)- North Cascades II,E8,2,5/5/2020,5/28/2020,5/29/2020,2,6,5
-1123,Fomitopsis,officinalis,XII (12)- Spider Lake,F1,2,5/5/2020,6/1/2020,6/2/2020,2,6,6
-1154,Fomitopsis,officinalis,XXXIV (34)- Slovenia,F1,2,5/5/2020,6/1/2020,6/2/2020,2,6,6
-1138,Fomitopsis,officinalis,XVI (16)- Boulder Creek,E8,3,5/5/2020,5/29/2020,5/30/2020,2,6,6
-1115,Fomitopsis,officinalis,VII (7)- Dungeness,E7,2,5/5/2020,6/2/2020,6/3/2020,2,6,6
-1156,Fomitopsis,officinalis,XXXV (35)- Slovenia II,E8,2,5/5/2020,5/29/2020,5/30/2020,2,6,6
-1158,Fomitopsis,officinalis,XXXVII (37)- Gold Creek,E8,2,5/5/2020,5/28/2020,5/29/2020,2,6,6
-1089,Fomitopsis,officinalis,IV (4)- Elwha,F1,3,5/5/2020,5/27/2020,5/28/2020,2,6,6
-1116,Fomitopsis,officinalis,VIII (8)- #67318,F1,4,5/5/2020,5/27/2020,5/28/2020,2,6,6
-1089,Fomitopsis,officinalis,IV (4)- Elwha,F1,3,5/5/2020,5/27/2020,1/14/2022,1,4,4
-1116,Fomitopsis,officinalis,VIII (8)- #67318,F1,4,5/5/2020,5/27/2020,1/14/2022,1,4,4
-1156,Fomitopsis,officinalis,XXXV (35)- Slovenia II,E8,2,5/5/2020,5/29/2020,1/14/2022,1,4,4
-1122,Fomitopsis,officinalis,XI (11)- Selma,E7,2,5/20/2020,6/16/2020,6/17/2020,2,6,6
-1139,Fomitopsis,officinalis,XVII (17)- Breit,E7,2,5/20/2020,6/12/2020,6/13/2020,2,6,6
-1100,Fomitopsis,officinalis,Rattlesnake Ridge,E7,3,5/20/2020,6/16/2020,6/17/2020,2,6,6
-1149,Fomitopsis,officinalis,XXVIII (28)- Liberty Larch,E8,2,5/20/2020,6/22/2020,6/23/2020,2,6,6
-1090,Fomitopsis,officinalis,IX (9) - Mt Ellinor II,E7,2,5/20/2020,6/12/2020,6/13/2020,2,6,6
-1084,Fomitopsis,officinalis,Emerald Forest,E8,4,5/22/2020,6/18/2020,6/19/2020,2,6,6
-1152,Fomitopsis,officinalis,XXXII (32)- North Cascades I,E7,2,5/22/2020,6/26/2020,6/27/2020,2,6,6
-1125,Fomitopsis,officinalis,XIV (14)- Mary's Point,E8,2,5/22/2020,6/22/2020,6/23/2020,2,6,6
-1111,Fomitopsis,officinalis,V (5) - Cortes,E7,5,5/22/2020,6/26/2020,6/27/2020,2,6,6
-1084,Fomitopsis,officinalis,Emerald Forest,E8,4,5/22/2020,6/18/2020,1/14/2022,1,4,4
-1148,Fomitopsis,officinalis,XXVII (27)- Ellinor Lake,E7,3,6/22/2020,7/29/2020,7/30/2020,2,6,6
-1150,Fomitopsis,officinalis,XXX (30)- Humboldt Willow Creek,E6,3,6/22/2020,7/29/2020,7/30/2020,2,6,6
-1075,Fomitopsis,officinalis,Bagby Hot Springs,E8,1,6/23/2020,7/28/2020,7/29/2020,2,6,6
-1102,Fomitopsis,officinalis,Rooke,E8,2,6/23/2020,7/28/2020,7/29/2020,2,6,6
-1143,Fomitopsis,officinalis,XXIII (23)- Gunclub - Carrie,E6,2,6/24/2020,7/30/2020,8/1/2020,2,6,6
-1126,Fomitopsis,officinalis,XIX (19)- Trudy Cortes I,E6,2,6/24/2020,7/30/2020,8/1/2020,2,6,6
-1142,Fomitopsis,officinalis,XXII (22)- Near Gun Club,E6,2,6/26/2020,8/6/2020,8/7/2020,2,6,6
-1127,Fomitopsis,officinalis,XL (40) - Goldmeyer Hot Springs,E7,3,6/26/2020,8/4/2020,8/5/2020,2,6,6
-1146,Fomitopsis,officinalis,XXV (25)- #75,E6,3,6/26/2020,8/3/2020,8/4/2020,2,6,6
-1141,Fomitopsis,officinalis,XX (20)- Trudy Cortes II,E6,2,6/26/2020,8/3/2020,8/4/2020,2,6,6
-1127,Fomitopsis,officinalis,XL (40) - Goldmeyer Hot Springs,E7,3,6/26/2020,8/4/2020,1/14/2022,1,4,4
-1131,Fomitopsis,officinalis,XLIV (44) - Cold Spring,E5,3,7/1/2020,8/6/2020,8/7/2020,2,6,6
-1130,Fomitopsis,officinalis,XLIII (43) - Twin Lakes,E5,2,7/1/2020,8/6/2020,8/7/2020,2,6,6
-1129,Fomitopsis,officinalis,XLII (42) - Turtlehead,E5,2,7/1/2020,8/7/2020,8/8/2020,2,6,6
-1128,Fomitopsis,officinalis,XLI (41) - Powell River,E5,3,7/1/2020,8/7/2020,8/8/2020,2,6,6
-1128,Fomitopsis,officinalis,XLI (41) - Powell River,E5,3,7/1/2020,8/7/2020,1/14/2022,1,4,4
-1094,Fomitopsis,officinalis,Larson's Meadow II,E6,2,7/2/2020,8/12/2020,8/13/2020,2,6,6
-1103,Fomitopsis,officinalis,Sanctuary,E6,2,7/2/2020,8/10/2020,8/11/2020,2,6,6
-1097,Fomitopsis,officinalis,Nowak,E5,1,7/2/2020,8/10/2020,8/11/2020,2,6,6
-1093,Fomitopsis,officinalis,Larson's Meadow,E5,4,7/2/2020,8/10/2020,8/11/2020,2,6,6
-1112,Fomitopsis,officinalis,Vancouver Island,E5,4,7/2/2020,8/11/2020,8/12/2020,2,6,6
-1133,Fomitopsis,officinalis,XLV (45) - Baker,E5,3,7/2/2020,8/11/2020,8/12/2020,2,6,6
-1136,Fomitopsis,officinalis,XLVIII (48) - Taylor River,E6,3,7/2/2020,8/12/2020,8/13/2020,2,6,6
-1132,Fomitopsis,officinalis,XLIX (49) - Spider Lake II,E6,3,7/2/2020,8/10/2020,8/11/2020,2,6,6
-1133,Fomitopsis,officinalis,XLV (45) - Baker,E5,3,7/2/2020,8/11/2020,1/14/2022,1,4,4
-1103,Fomitopsis,officinalis,Sanctuary,E6,2,7/2/2020,8/10/2020,5/26/2022,1,6,6
+1140,Laricifomes,officinalis,XVIII (18) #67318 (Ellinor),F1,2,2/26/2020,3/30/2020,1/14/2022,1,4,4
+1145,Laricifomes,officinalis,XXIX (29)- Capitol Forest,F1,2,2/26/2020,3/23/2020,1/14/2022,1,4,4
+1095,Laricifomes,officinalis,MPVW,F1,4,2/26/2020,3/20/2020,1/14/2022,1,4,4
+1080,Laricifomes,officinalis,Chip,F1,3,2/26/2020,3/20/2020,1/14/2022,1,4,4
+1147,Laricifomes,officinalis,XXVI (26)- Browns Creek,E7,2,5/5/2020,6/2/2020,6/3/2020,2,6,6
+1153,Laricifomes,officinalis,XXXIIIa (33a)- North Cascades II,E8,2,5/5/2020,5/28/2020,5/29/2020,2,6,5
+1123,Laricifomes,officinalis,XII (12)- Spider Lake,F1,2,5/5/2020,6/1/2020,6/2/2020,2,6,6
+1154,Laricifomes,officinalis,XXXIV (34)- Slovenia,F1,2,5/5/2020,6/1/2020,6/2/2020,2,6,6
+1138,Laricifomes,officinalis,XVI (16)- Boulder Creek,E8,3,5/5/2020,5/29/2020,5/30/2020,2,6,6
+1115,Laricifomes,officinalis,VII (7)- Dungeness,E7,2,5/5/2020,6/2/2020,6/3/2020,2,6,6
+1156,Laricifomes,officinalis,XXXV (35)- Slovenia II,E8,2,5/5/2020,5/29/2020,5/30/2020,2,6,6
+1158,Laricifomes,officinalis,XXXVII (37)- Gold Creek,E8,2,5/5/2020,5/28/2020,5/29/2020,2,6,6
+1089,Laricifomes,officinalis,IV (4)- Elwha,F1,3,5/5/2020,5/27/2020,5/28/2020,2,6,6
+1116,Laricifomes,officinalis,VIII (8)- #67318,F1,4,5/5/2020,5/27/2020,5/28/2020,2,6,6
+1089,Laricifomes,officinalis,IV (4)- Elwha,F1,3,5/5/2020,5/27/2020,1/14/2022,1,4,4
+1116,Laricifomes,officinalis,VIII (8)- #67318,F1,4,5/5/2020,5/27/2020,1/14/2022,1,4,4
+1156,Laricifomes,officinalis,XXXV (35)- Slovenia II,E8,2,5/5/2020,5/29/2020,1/14/2022,1,4,4
+1122,Laricifomes,officinalis,XI (11)- Selma,E7,2,5/20/2020,6/16/2020,6/17/2020,2,6,6
+1139,Laricifomes,officinalis,XVII (17)- Breit,E7,2,5/20/2020,6/12/2020,6/13/2020,2,6,6
+1100,Laricifomes,officinalis,Rattlesnake Ridge,E7,3,5/20/2020,6/16/2020,6/17/2020,2,6,6
+1149,Laricifomes,officinalis,XXVIII (28)- Liberty Larch,E8,2,5/20/2020,6/22/2020,6/23/2020,2,6,6
+1090,Laricifomes,officinalis,IX (9) - Mt Ellinor II,E7,2,5/20/2020,6/12/2020,6/13/2020,2,6,6
+1084,Laricifomes,officinalis,Emerald Forest,E8,4,5/22/2020,6/18/2020,6/19/2020,2,6,6
+1152,Laricifomes,officinalis,XXXII (32)- North Cascades I,E7,2,5/22/2020,6/26/2020,6/27/2020,2,6,6
+1125,Laricifomes,officinalis,XIV (14)- Mary's Point,E8,2,5/22/2020,6/22/2020,6/23/2020,2,6,6
+1111,Laricifomes,officinalis,V (5) - Cortes,E7,5,5/22/2020,6/26/2020,6/27/2020,2,6,6
+1084,Laricifomes,officinalis,Emerald Forest,E8,4,5/22/2020,6/18/2020,1/14/2022,1,4,4
+1148,Laricifomes,officinalis,XXVII (27)- Ellinor Lake,E7,3,6/22/2020,7/29/2020,7/30/2020,2,6,6
+1150,Laricifomes,officinalis,XXX (30)- Humboldt Willow Creek,E6,3,6/22/2020,7/29/2020,7/30/2020,2,6,6
+1075,Laricifomes,officinalis,Bagby Hot Springs,E8,1,6/23/2020,7/28/2020,7/29/2020,2,6,6
+1102,Laricifomes,officinalis,Rooke,E8,2,6/23/2020,7/28/2020,7/29/2020,2,6,6
+1143,Laricifomes,officinalis,XXIII (23)- Gunclub - Carrie,E6,2,6/24/2020,7/30/2020,8/1/2020,2,6,6
+1126,Laricifomes,officinalis,XIX (19)- Trudy Cortes I,E6,2,6/24/2020,7/30/2020,8/1/2020,2,6,6
+1142,Laricifomes,officinalis,XXII (22)- Near Gun Club,E6,2,6/26/2020,8/6/2020,8/7/2020,2,6,6
+1127,Laricifomes,officinalis,XL (40) - Goldmeyer Hot Springs,E7,3,6/26/2020,8/4/2020,8/5/2020,2,6,6
+1146,Laricifomes,officinalis,XXV (25)- #75,E6,3,6/26/2020,8/3/2020,8/4/2020,2,6,6
+1141,Laricifomes,officinalis,XX (20)- Trudy Cortes II,E6,2,6/26/2020,8/3/2020,8/4/2020,2,6,6
+1127,Laricifomes,officinalis,XL (40) - Goldmeyer Hot Springs,E7,3,6/26/2020,8/4/2020,1/14/2022,1,4,4
+1131,Laricifomes,officinalis,XLIV (44) - Cold Spring,E5,3,7/1/2020,8/6/2020,8/7/2020,2,6,6
+1130,Laricifomes,officinalis,XLIII (43) - Twin Lakes,E5,2,7/1/2020,8/6/2020,8/7/2020,2,6,6
+1129,Laricifomes,officinalis,XLII (42) - Turtlehead,E5,2,7/1/2020,8/7/2020,8/8/2020,2,6,6
+1128,Laricifomes,officinalis,XLI (41) - Powell River,E5,3,7/1/2020,8/7/2020,8/8/2020,2,6,6
+1128,Laricifomes,officinalis,XLI (41) - Powell River,E5,3,7/1/2020,8/7/2020,1/14/2022,1,4,4
+1094,Laricifomes,officinalis,Larson's Meadow II,E6,2,7/2/2020,8/12/2020,8/13/2020,2,6,6
+1103,Laricifomes,officinalis,Sanctuary,E6,2,7/2/2020,8/10/2020,8/11/2020,2,6,6
+1097,Laricifomes,officinalis,Nowak,E5,1,7/2/2020,8/10/2020,8/11/2020,2,6,6
+1093,Laricifomes,officinalis,Larson's Meadow,E5,4,7/2/2020,8/10/2020,8/11/2020,2,6,6
+1112,Laricifomes,officinalis,Vancouver Island,E5,4,7/2/2020,8/11/2020,8/12/2020,2,6,6
+1133,Laricifomes,officinalis,XLV (45) - Baker,E5,3,7/2/2020,8/11/2020,8/12/2020,2,6,6
+1136,Laricifomes,officinalis,XLVIII (48) - Taylor River,E6,3,7/2/2020,8/12/2020,8/13/2020,2,6,6
+1132,Laricifomes,officinalis,XLIX (49) - Spider Lake II,E6,3,7/2/2020,8/10/2020,8/11/2020,2,6,6
+1133,Laricifomes,officinalis,XLV (45) - Baker,E5,3,7/2/2020,8/11/2020,1/14/2022,1,4,4
+1103,Laricifomes,officinalis,Sanctuary,E6,2,7/2/2020,8/10/2020,5/26/2022,1,6,6
 1228,Hericium,erinaceus,Richmond VA,E5,5,8/28/2020,10/2/2020,10/3/2020,2,6,6
 1231,Hericium,erinaceus,VII- Priest Point,E8,3,8/28/2020,9/28/2020,9/29/2020,2,6,6
 1232,Hericium,erinaceus,VIII- Rock MD,E4,2,8/28/2020,10/8/2020,10/9/2020,2,5,5
 1222,Hericium,erinaceus,Hai,E5,2,8/28/2020,9/28/2020,9/29/2020,2,6,6
 1223,Hericium,erinaceus,I,E4,22,8/28/2020,10/2/2020,10/3/2020,2,6,6
-1108,Fomitopsis,officinalis,Terrace,E4,2,9/11/2020,10/8/2020,10/9/2020,2,5,4
-1109,Fomitopsis,officinalis,Tiger Mountain,E4,1,9/11/2020,10/12/2020,10/13/2020,2,6,6
-1107,Fomitopsis,officinalis,Spider Lake III,E4,3,9/11/2020,10/12/2020,10/13/2020,2,6,6
-1086,Fomitopsis,officinalis,Hamilton Buttes,E4,1,9/11/2020,10/14/2020,10/15/2020,2,6,6
-1104,Fomitopsis,officinalis,Skookum Flats,E4,1,9/11/2020,10/22/2020,10/23/2020,2,6,6
-1109,Fomitopsis,officinalis,Tiger Mountain,E4,1,9/11/2020,10/12/2020,1/14/2022,1,4,4
+1108,Laricifomes,officinalis,Terrace,E4,2,9/11/2020,10/8/2020,10/9/2020,2,5,4
+1109,Laricifomes,officinalis,Tiger Mountain,E4,1,9/11/2020,10/12/2020,10/13/2020,2,6,6
+1107,Laricifomes,officinalis,Spider Lake III,E4,3,9/11/2020,10/12/2020,10/13/2020,2,6,6
+1086,Laricifomes,officinalis,Hamilton Buttes,E4,1,9/11/2020,10/14/2020,10/15/2020,2,6,6
+1104,Laricifomes,officinalis,Skookum Flats,E4,1,9/11/2020,10/22/2020,10/23/2020,2,6,6
+1109,Laricifomes,officinalis,Tiger Mountain,E4,1,9/11/2020,10/12/2020,1/14/2022,1,4,4
 1225,Hericium,erinaceus,III- MD,E3,2,9/29/2020,10/30/2020,11/1/2020,2,6,6
 1175,Ganoderma,lucidum,52412,E4,22,10/9/2020,10/22/2020,10/23/2020,2,6,6
 1178,Ganoderma,lucidum,La Gardin,E3,3,10/9/2020,10/30/2020,11/1/2020,2,6,6
@@ -263,34 +263,34 @@ Accession Number,Genus,Species,Strain,Location,Pvalue,Inoc Date,Date Frozen,Date
 1013,Agaricus,brunnescens,Portobello,D6,2,6/15/2021,6/28/2021,6/30/2021,2,6,6
 1000,Agaricus,augustus,I,D5,13,6/29/2021,7/26/2021,7/29/2021,2,6,6
 1039,Coprinus,comatus,K08,D5,2,6/29/2021,7/26/2021,7/29/2021,2,6,6
-1085,Fomitopsis,officinalis,Fairy Creek,D5,1,7/15/2021,8/4/2021,8/6/2021,2,6,6
-1085,Fomitopsis,officinalis,Fairy Creek,D5,1,7/15/2021,8/4/2021,1/14/2022,1,4,3
-1088,Fomitopsis,officinalis,I- Morton,D5,1,7/20/2021,8/16/2021,8/18/2021,2,6,6
-1089,Fomitopsis,officinalis,IV (4)- Elwha,D5,2,7/20/2021,8/16/2021,8/18/2021,2,6,6
-1074,Fomitopsis,officinalis,Anvil Lake BC,D4,4,7/21/2021,8/23/2021,8/24/2021,2,6,6
-1091,Fomitopsis,officinalis,Kitsap,D5,2,7/21/2021,8/16/2021,8/18/2021,2,6,6
-1133,Fomitopsis,officinalis,XLV (45) - Baker,D4,2,7/21/2021,8/23/2021,8/24/2021,2,6,6
-1136,Fomitopsis,officinalis,XLVIII (48) - Taylor River,D4,2,7/21/2021,8/17/2021,8/19/2021,2,6,6
-1132,Fomitopsis,officinalis,XLIX (49) - Spider Lake II,D3,2,7/21/2021,8/23/2021,8/26/2021,2,6,6
-1131,Fomitopsis,officinalis,XLIV (44) - Cold Spring,D4,2,7/21/2021,8/17/2021,8/19/2021,2,6,6
-1112,Fomitopsis,officinalis,Vancouver Island,D4,3,7/21/2021,8/23/2021,8/24/2021,2,6,6
-1076,Fomitopsis,officinalis,Beachie Creek,D4,1,7/21/2021,8/17/2021,8/19/2021,2,6,6
-1105,Fomitopsis,officinalis,Sleeping Beauty Trail,D3,1,7/21/2021,8/26/2021,9/2/2021,2,6,6
-1116,Fomitopsis,officinalis,VIII (8)- #67318,D3,2,7/21/2021,8/24/2021,8/27/2021,2,6,6
-1076,Fomitopsis,officinalis,Beachie Creek,D4,1,7/21/2021,8/17/2021,1/14/2022,1,4,4
-1146,Fomitopsis,officinalis,XXV (25)- #75,D3,2,7/22/2021,8/26/2021,9/2/2021,2,6,6
-1138,Fomitopsis,officinalis,XVI (16)- Boulder Creek,D3,2,7/22/2021,8/24/2021,8/27/2021,2,6,6
-1148,Fomitopsis,officinalis,XXVII (27)- Ellinor Lake,D4,2,7/22/2021,8/23/2021,8/26/2021,2,6,6
-1150,Fomitopsis,officinalis,XXX (30)- Humboldt Willow Creek,D4,2,7/22/2021,8/18/2021,8/20/2021,2,6,6
-1127,Fomitopsis,officinalis,XL (40) - Goldmeyer Hot Springs,D2,2,7/22/2021,9/2/2021,9/13/2021,2,6,6
-1128,Fomitopsis,officinalis,XLI (41) - Powell River,D4,2,7/22/2021,8/23/2021,8/26/2021,2,6,6
-1099,Fomitopsis,officinalis,Raging River,D5,2,7/22/2021,8/18/2021,8/20/2021,2,6,6
-1101,Fomitopsis,officinalis,Rock Candy Mtn,D3,5,7/22/2021,8/24/2021,8/27/2021,2,6,6
-1082,Fomitopsis,officinalis,Duckabush,D5,2,7/22/2021,8/18/2021,8/20/2021,2,6,6
-1101,Fomitopsis,officinalis,Rock Candy Mtn,D3,5,7/22/2021,8/24/2021,1/14/2022,1,4,4
-1111,Fomitopsis,officinalis,V (5) - Cortes,D3,3,8/10/2021,9/2/2021,9/13/2021,2,6,6
-1137,Fomitopsis,officinalis,XV (15)- Ellinor,D3,2,8/10/2021,9/2/2021,9/13/2021,2,6,6
-1083,Fomitopsis,officinalis,East Tyrol,D3,3,8/10/2021,8/26/2021,9/2/2021,2,6,6
+1085,Laricifomes,officinalis,Fairy Creek,D5,1,7/15/2021,8/4/2021,8/6/2021,2,6,6
+1085,Laricifomes,officinalis,Fairy Creek,D5,1,7/15/2021,8/4/2021,1/14/2022,1,4,3
+1088,Laricifomes,officinalis,I- Morton,D5,1,7/20/2021,8/16/2021,8/18/2021,2,6,6
+1089,Laricifomes,officinalis,IV (4)- Elwha,D5,2,7/20/2021,8/16/2021,8/18/2021,2,6,6
+1074,Laricifomes,officinalis,Anvil Lake BC,D4,4,7/21/2021,8/23/2021,8/24/2021,2,6,6
+1091,Laricifomes,officinalis,Kitsap,D5,2,7/21/2021,8/16/2021,8/18/2021,2,6,6
+1133,Laricifomes,officinalis,XLV (45) - Baker,D4,2,7/21/2021,8/23/2021,8/24/2021,2,6,6
+1136,Laricifomes,officinalis,XLVIII (48) - Taylor River,D4,2,7/21/2021,8/17/2021,8/19/2021,2,6,6
+1132,Laricifomes,officinalis,XLIX (49) - Spider Lake II,D3,2,7/21/2021,8/23/2021,8/26/2021,2,6,6
+1131,Laricifomes,officinalis,XLIV (44) - Cold Spring,D4,2,7/21/2021,8/17/2021,8/19/2021,2,6,6
+1112,Laricifomes,officinalis,Vancouver Island,D4,3,7/21/2021,8/23/2021,8/24/2021,2,6,6
+1076,Laricifomes,officinalis,Beachie Creek,D4,1,7/21/2021,8/17/2021,8/19/2021,2,6,6
+1105,Laricifomes,officinalis,Sleeping Beauty Trail,D3,1,7/21/2021,8/26/2021,9/2/2021,2,6,6
+1116,Laricifomes,officinalis,VIII (8)- #67318,D3,2,7/21/2021,8/24/2021,8/27/2021,2,6,6
+1076,Laricifomes,officinalis,Beachie Creek,D4,1,7/21/2021,8/17/2021,1/14/2022,1,4,4
+1146,Laricifomes,officinalis,XXV (25)- #75,D3,2,7/22/2021,8/26/2021,9/2/2021,2,6,6
+1138,Laricifomes,officinalis,XVI (16)- Boulder Creek,D3,2,7/22/2021,8/24/2021,8/27/2021,2,6,6
+1148,Laricifomes,officinalis,XXVII (27)- Ellinor Lake,D4,2,7/22/2021,8/23/2021,8/26/2021,2,6,6
+1150,Laricifomes,officinalis,XXX (30)- Humboldt Willow Creek,D4,2,7/22/2021,8/18/2021,8/20/2021,2,6,6
+1127,Laricifomes,officinalis,XL (40) - Goldmeyer Hot Springs,D2,2,7/22/2021,9/2/2021,9/13/2021,2,6,6
+1128,Laricifomes,officinalis,XLI (41) - Powell River,D4,2,7/22/2021,8/23/2021,8/26/2021,2,6,6
+1099,Laricifomes,officinalis,Raging River,D5,2,7/22/2021,8/18/2021,8/20/2021,2,6,6
+1101,Laricifomes,officinalis,Rock Candy Mtn,D3,5,7/22/2021,8/24/2021,8/27/2021,2,6,6
+1082,Laricifomes,officinalis,Duckabush,D5,2,7/22/2021,8/18/2021,8/20/2021,2,6,6
+1101,Laricifomes,officinalis,Rock Candy Mtn,D3,5,7/22/2021,8/24/2021,1/14/2022,1,4,4
+1111,Laricifomes,officinalis,V (5) - Cortes,D3,3,8/10/2021,9/2/2021,9/13/2021,2,6,6
+1137,Laricifomes,officinalis,XV (15)- Ellinor,D3,2,8/10/2021,9/2/2021,9/13/2021,2,6,6
+1083,Laricifomes,officinalis,East Tyrol,D3,3,8/10/2021,8/26/2021,9/2/2021,2,6,6
 1058,Flammulina,populicola,NC,D2,15,9/3/2021,9/21/2021,9/24/2021,2,6,6
 1042,Cordyceps,militaris,Cordyzilla,D2,4,9/14/2021,10/7/2021,10/11/2021,2,6,6
 1064,Fomes,fomentarius,France,D2,2,9/14/2021,10/4/2021,10/7/2021,2,6,6
@@ -329,14 +329,14 @@ Accession Number,Genus,Species,Strain,Location,Pvalue,Inoc Date,Date Frozen,Date
 1200,Grifola,frondosa,Arora,C7,4,10/28/2021,11/16/2021,11/17/2021,2,6,6
 1203,Grifola,frondosa,Franklin Maitake,C7,2,10/28/2021,11/16/2021,11/17/2021,2,6,6
 1202,Grifola,frondosa,Concord Mass.,C7,3,10/28/2021,11/16/2021,11/17/2021,2,6,6
-1077,Fomitopsis,officinalis,Boulder Creek II,C6,1,11/16/2021,12/9/2021,12/10/2021,2,6,6
-1096,Fomitopsis,officinalis,Mt Ellinor Lower Trail Head,C6,1,11/16/2021,12/9/2021,12/10/2021,2,6,6
+1077,Laricifomes,officinalis,Boulder Creek II,C6,1,11/16/2021,12/9/2021,12/10/2021,2,6,6
+1096,Laricifomes,officinalis,Mt Ellinor Lower Trail Head,C6,1,11/16/2021,12/9/2021,12/10/2021,2,6,6
 1218,Hericium,abietis,Mt Ellinor,C5,1,11/16/2021,12/20/2021,1/3/2022,2,6,6
 1167,Ganoderma,applanatum,God's Thumb,C6,1,11/16/2021,12/1/2021,12/9/2021,2,6,6
 1427,Psathyrella,ammophila,Grayland Beach,C5,1,11/16/2021,1/3/2022,1/12/2022,2,6,6
 1278,Laetiporus,conifericola,Depoe Bay,C6,3,11/16/2021,12/9/2021,12/10/2021,2,6,6
 1196,Ganoderma,tsugae,76542,C6,21,11/16/2021,12/1/2021,12/9/2021,2,6,6
-1077,Fomitopsis,officinalis,Boulder Creek II,C6,1,11/16/2021,12/9/2021,1/14/2022,1,4,3
+1077,Laricifomes,officinalis,Boulder Creek II,C6,1,11/16/2021,12/9/2021,1/14/2022,1,4,3
 1229,Hericium,erinaceus,V- White House (WH),C4,2,12/2/2021,1/13/2022,1/14/2022,2,6,6
 1226,Hericium,erinaceus,IV- NY Ave DC,C5,2,12/2/2021,1/12/2022,1/14/2022,2,6,6
 1221,Hericium,coralloides,HE/MD I,C5,7,12/2/2021,1/12/2022,1/14/2022,2,6,6
@@ -410,12 +410,12 @@ Accession Number,Genus,Species,Strain,Location,Pvalue,Inoc Date,Date Frozen,Date
 1323,Macrolepiota,procera,II-J297 Kamilche,B6,9,3/10/2022,4/22/2022,4/29/2022,2,6,6
 1328,Marasmiellus,sp,Tatoosh,B5,3,9/15/2022,9/26/2022,9/28/2022,2,6,6
 1319,Leratiomyces,ceres,I,B5,3,9/15/2022,9/26/2022,9/28/2022,2,6,6
-1113,Fomitopsis,officinalis,Vanson Ridge,B4,1,9/27/2022,10/24/2022,10/27/2022,2,6,6
-1110,Fomitopsis,officinalis,Upper Alpine II,B3,1,9/27/2022,10/31/2022,11/3/2022,2,6,6
-1081,Fomitopsis,officinalis,Cloverpatch,B3,1,9/27/2022,10/24/2022,10/27/2022,2,6,6
-1161,Fomitopsis,officinalis,Yacolt Upper Cold Creek,B4,1,9/27/2022,10/17/2022,10/21/2022,2,6,6
-1160,Fomitopsis,officinalis,Yacolt Sixth Sense,B3,1,9/27/2022,10/24/2022,10/27/2022,2,6,6
-1078,Fomitopsis,officinalis,Camas Creek,B4,1,9/27/2022,10/17/2022,10/20/2022,2,6,6
+1113,Laricifomes,officinalis,Vanson Ridge,B4,1,9/27/2022,10/24/2022,10/27/2022,2,6,6
+1110,Laricifomes,officinalis,Upper Alpine II,B3,1,9/27/2022,10/31/2022,11/3/2022,2,6,6
+1081,Laricifomes,officinalis,Cloverpatch,B3,1,9/27/2022,10/24/2022,10/27/2022,2,6,6
+1161,Laricifomes,officinalis,Yacolt Upper Cold Creek,B4,1,9/27/2022,10/17/2022,10/21/2022,2,6,6
+1160,Laricifomes,officinalis,Yacolt Sixth Sense,B3,1,9/27/2022,10/24/2022,10/27/2022,2,6,6
+1078,Laricifomes,officinalis,Camas Creek,B4,1,9/27/2022,10/17/2022,10/20/2022,2,6,6
 1316,Lepista,nuda,I,B3,8,9/29/2022,11/2/2022,11/3/2022,2,6,6
 1331,Morchella,angusticeps,Black Morel,B5,7,9/29/2022,10/12/2022,10/14/2022,2,6,6
 1333,Morchella,angusticeps,M28-Skokomish,B5,8,9/29/2022,10/10/2022,10/14/2022,2,6,6
@@ -433,7 +433,7 @@ Accession Number,Genus,Species,Strain,Location,Pvalue,Inoc Date,Date Frozen,Date
 1362,Fomitopsis,betulina,Mass,B3,2,9/30/2022,11/1/2022,11/3/2022,2,6,6
 1424,Polyporus,umbellatus,I,B5,7,9/30/2022,10/10/2022,10/14/2022,2,6,6
 1456,Trametes,versicolor,Breitenbush,B5,2,9/30/2022,10/10/2022,10/14/2022,2,6,6
-1092,Fomitopsis,officinalis,Lake Limerick,B3,1,9/30/2022,10/31/2022,11/3/2022,2,6,6
+1092,Laricifomes,officinalis,Lake Limerick,B3,1,9/30/2022,10/31/2022,11/3/2022,2,6,6
 1344,Sarcomyxa,serotina,I,B4,14,9/30/2022,10/20/2022,10/21/2022,2,6,6
 1398,Pleurotus,ostreatus,Nisqually II,B2,2,9/30/2022,11/2/2022,11/16/2022,2,6,6
 1393,Pleurotus,ostreatus,Kamilche - I,B5,3,9/30/2022,10/17/2022,10/20/2022,2,6,6
@@ -454,7 +454,7 @@ Accession Number,Genus,Species,Strain,Location,Pvalue,Inoc Date,Date Frozen,Date
 1379,Pleurotus,nebrodensis,Fujian,B1,2,11/2/2022,11/28/2022,12/2/2022,2,6,6
 1376,Pleurotus,nebrodensis,# 1019,B1,2,11/2/2022,12/2/2022,12/7/2022,2,6,6
 1444,Stropharia,ambigua,I,B1,5,11/2/2022,11/28/2022,12/2/2022,2,6,6
-1087,Fomitopsis,officinalis,High Rock,A8,1,11/17/2022,12/12/2022,12/15/2022,2,6,6
+1087,Laricifomes,officinalis,High Rock,A8,1,11/17/2022,12/12/2022,12/15/2022,2,6,6
 1449,Stropharia,rugosoannulata,III,A8,2,11/17/2022,12/15/2022,1/12/2023,2,6,6
 1445,Stropharia,ambigua,II,A8,2,11/17/2022,12/15/2022,1/12/2023,2,6,6
 1448,Stropharia,rugosoannulata,II,A8,5,11/18/2022,12/15/2022,1/12/2023,2,6,6
@@ -487,10 +487,12 @@ Accession Number,Genus,Species,Strain,Location,Pvalue,Inoc Date,Date Frozen,Date
 1341,Mycenaceae,sp,I,A4,2,1/25/2023,2/22/2023,2/28/2023,2,6,6
 1357,Pholiota,sp,Tatoosh Makah,A5,2,1/25/2023,2/15/2023,2/20/2023,2,6,6
 1448,Stropharia,rugosoannulata,II,A5,5,1/25/2023,2/15/2023,2/20/2023,2,6,6
-1438,Sparassis,crispa,II Europe,A3,20,1/25/2023,2/28/2023,3/2/2023,2,6,NA
+1438,Sparassis,crispa,II Europe,A3,20,1/25/2023,2/28/2023,3/2/2023,2,6,4
 1429,Psathyrella,aquatica,C2,A4,4,1/25/2023,2/22/2023,2/28/2023,2,6,6
 1450,Stropharia,rugosoannulata,K08,A5,2,1/25/2023,2/15/2023,2/20/2023,2,6,6
 1372,Pleurotus,dryinus,SPCC,A3,3,1/25/2023,2/28/2023,3/2/2023,2,6,5
+1224,Hericium,erinaceus,II,A1,5,1/27/2023,2/20/2023,2/22/2023,2,6,6
+1224,Hericium,erinaceus,II,A1,5,1/27/2023,2/20/2023,2/22/2023,2,6,6
 1224,Hericium,erinaceus,II,A1,5,1/27/2023,2/20/2023,3/14/2023,25,0,0
 1224,Hericium,erinaceus,II,A1,5,1/27/2023,2/20/2023,3/14/2023,25,0,0
 1318,Lepista,sp,Sno,A4,5,1/31/2023,2/22/2023,2/28/2023,2,6,6
@@ -499,8 +501,16 @@ Accession Number,Genus,Species,Strain,Location,Pvalue,Inoc Date,Date Frozen,Date
 1395,Pleurotus,ostreatus,Lake Cushman,A4,2,1/31/2023,2/28/2023,3/1/2023,2,6,6
 1388,Pleurotus,ostreatus,Garfield,A3,4,1/31/2023,3/8/2023,3/10/2023,2,6,6
 1382,Pleurotus,ostreatus,Carrington,A4,5,1/31/2023,2/28/2023,3/1/2023,2,6,6
-1117,Fomitopsis,officinalis,Windy Pass I,A4,1,1/31/2023,2/28/2023,3/1/2023,2,6,6
-1118,Fomitopsis,officinalis,Windy Pass II,A4,1,1/31/2023,2/24/2023,3/1/2023,2,6,6
-1119,Fomitopsis,officinalis,Windy Pass III,A3,1,2/2/2023,3/8/2023,3/10/2023,2,6,NA
-1120,Fomitopsis,officinalis,Windy Pass IV,A3,1,2/2/2023,2/28/2023,3/2/2023,2,6,5
-1326,Chlorophyllum,rhacodes,II Kamilche,A3,18,2/2/2023,3/8/2023,3/10/2023,2,6,NA
+1117,Laricifomes,officinalis,Windy Pass I,A4,1,1/31/2023,2/28/2023,3/1/2023,2,6,6
+1118,Laricifomes,officinalis,Windy Pass II,A4,1,1/31/2023,2/24/2023,3/1/2023,2,6,6
+1119,Laricifomes,officinalis,Windy Pass III,A3,1,2/2/2023,3/8/2023,3/10/2023,2,6,6
+1120,Laricifomes,officinalis,Windy Pass IV,A3,1,2/2/2023,2/28/2023,3/2/2023,2,6,5
+1326,Chlorophyllum,rhacodes,II Kamilche,A3,18,2/2/2023,3/8/2023,3/10/2023,2,6,6
+1408,Pleurotus,pulmonarius,Cascades,A2,2,4/4/2023,4/24/2023,5/1/2023,2,6,6
+1410,Pleurotus,pulmonarius,NM II,A3,5,4/4/2023,4/20/2023,4/24/2023,2,6,6
+1428,Psathyrella,aquatica,C1,A3,4,4/4/2023,5/1/2023,5/2/2023,2,6,6
+1346,Phellinus,igniarius,FPCD,A3,3,4/4/2023,4/20/2023,4/24/2023,2,6,6
+1366,Fomitopsis,betulina,Syracuse,A3,2,4/4/2023,4/20/2023,4/24/2023,2,6,6
+1476,Volvariella,volvacea,OutGrow,A3,1,4/6/2023,5/1/2023,5/2/2023,2,6,6
+1413,Pleurotus,sp,OSTSAP Cortes Fir,A2,3,4/12/2023,4/24/2023,5/1/2023,2,6,6
+1385,Pleurotus,ostreatus,Cortes Alder,A3,9,4/12/2023,5/1/2023,5/2/2023,2,6,6
