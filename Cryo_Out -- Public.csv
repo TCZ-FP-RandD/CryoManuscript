@@ -226,7 +226,7 @@ Accession Number,Genus,Species,Strain,Location,Pvalue,Inoc Date,Date Frozen,Date
 1059,Flammulina,populicola,TELL-II,E2,2,12/2/2020,12/16/2020,12/17/2020,2,6,6
 1068,Fomes,fomentarius,U of Virginia,E1,4,12/2/2020,12/22/2020,12/23/2020,2,6,6
 1066,Fomes,fomentarius,Mass,E1,2,12/2/2020,12/21/2020,12/22/2020,2,6,6
-1063,Fomes,eberhartii,I,E1,2,12/2/2020,12/22/2020,12/23/2020,2,6,6
+1063,Phellinus ,everhartii,I,E1,2,12/2/2020,12/22/2020,12/23/2020,2,6,6
 1069,Fomes,fomentarius,Vancouver,E1,3,3/24/2021,4/12/2021,4/13/2021,2,6,6
 1067,Fomes,fomentarius,Norway,D8,2,3/24/2021,4/12/2021,4/13/2021,2,6,6
 1176,Ganoderma,lucidum,62451,D8,8,4/6/2021,4/23/2021,4/26/2021,2,6,6
@@ -378,7 +378,7 @@ Accession Number,Genus,Species,Strain,Location,Pvalue,Inoc Date,Date Frozen,Date
 1270,Inonotus,obliquus,III Cambridge,C1,3,2/3/2022,3/7/2022,3/11/2022,2,6,6
 1272,Inonotus,obliquus,Mass - Bernat,C1,3,2/3/2022,3/7/2022,3/11/2022,2,6,6
 1271,Inonotus,obliquus,Mass IV,C1,4,2/3/2022,3/4/2022,3/7/2022,2,6,6
-1213,Gymnopilus,luteofolius,I,B8,15,3/3/2022,3/28/2022,3/30/2022,2,6,6
+1213,Gymnopilus,sp,I,B8,15,3/3/2022,3/28/2022,3/30/2022,2,6,6
 1266,Pseudoinonotus,dryadeus,I,B8,2,3/3/2022,3/28/2022,3/30/2022,2,6,6
 1267,Inocutis,dryophila,I,C1,2,3/3/2022,3/22/2022,3/24/2022,2,6,6
 1276,Irpex,lacteus,FPCD,C1,6,3/3/2022,3/22/2022,3/24/2022,2,6,6
@@ -461,7 +461,6 @@ Accession Number,Genus,Species,Strain,Location,Pvalue,Inoc Date,Date Frozen,Date
 1447,Stropharia,rugosoannulata,I,A8,12,11/18/2022,12/12/2022,12/15/2022,2,6,6
 1420,Polyporus,umbellatus,#2797,A7,3,12/12/2022,1/12/2023,1/17/2023,2,6,6
 1418,Polyporus,tuberaster,PPTA,A8,13,12/12/2022,1/10/2023,1/12/2023,2,6,6
-1432,Deconica,coprophila,I,A7,2,12/12/2022,1/12/2023,1/17/2023,2,6,6
 1451,Taiwanofungus,camphoratus,I,A7,3,12/12/2022,1/12/2023,1/17/2023,2,6,6
 1352,Phlebia,radiata,FO 121,A7,2,1/6/2023,1/17/2023,1/23/2023,2,6,6
 1360,Fomitopsis,betulina,Ithaca,A7,2,1/6/2023,1/17/2023,1/23/2023,2,6,6
